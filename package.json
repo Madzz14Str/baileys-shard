@@ -12,7 +12,6 @@
     "default": "./dist/index.cjs"
   },
   "scripts": {
-    "test": "node /test/test.js",
     "build": "tsup"
   },
   "repository": {
