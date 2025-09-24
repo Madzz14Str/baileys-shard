@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZTRdiamond/baileys-shard.git"
+    "url": "git+https://github.com/Madzz14Str/baileys-shard.git"
   },
   "keywords": [
     "baileys",
@@ -32,11 +32,11 @@
   "author": "ZTRdiamond",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZTRdiamond/baileys-shard/issues"
+    "url": "https://github.com/Madzz14Str/baileys-shard/issues"
   },
-  "homepage": "https://github.com/ZTRdiamond/baileys-shard#readme",
+  "homepage": "https://github.com/Madzz14Str/baileys-shard#readme",
   "dependencies": {
-    "baileys": "6.7.19",
+    "baileys": "npm:@madzoffc/baileysmod@latest",
     "events": "3.3.0",
     "glob": "11.0.3",
     "path": "0.12.7",
