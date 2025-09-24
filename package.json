@@ -1,6 +1,6 @@
 {
   "type": "commonjs",
-  "name": "baileys-shard",
+  "name": "@madzoffc/baileys-shard",
   "version": "1.0.0-rc.1",
   "description": "A lightweight baileys multi session for whatsapp bot.",
   "main": "./dist/index.cjs",
