@@ -1,6 +1,5 @@
 # source
 src
-test
 sessions
 node_modules
 .git
@@ -8,6 +7,3 @@ node_modules
 # build
 tsconfig.json
 tsup.config.ts
-
-# tmp
-malas_ngoding.jpg
